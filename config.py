@@ -17,4 +17,4 @@ WEBHOOK_LISTEN = '0.0.0.0'
 WEBHOOK_URL_BASE = "https://{}:{}".format(HOST, WEBHOOK_PORT)
 WEBHOOK_URL_PATH = "/{}".format('web_hook')
 
-info='-> to get your json file descirption drag and drop it here or upload \n-> to see last logs type "logs" \n-> to see webhook status follow "https://{}/check_webhook" \n-> to reset the webhook follow "https://{}/set_webhook" \n-> гитхаб: https://github.com/diff7/flask_telegram_bot_geojson'.format(HOST, HOST)
+info='-> to get your json file descirption drag and drop it here or upload \n-> to see last logs type "logs" \n-> to see webhook status follow "https://{}/check_webhook" \n-> to reset the webhook follow "https://{}/set_webhook" \n-> github: https://github.com/diff7/flask_telegram_bot_geojson'.format(HOST, HOST)
