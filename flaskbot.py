@@ -63,14 +63,17 @@ def webhook():
                 check, get_file_message = get_file_contetn(file_id)
                 if check==True:
                     message, file_path=get_feature_names(file_id)
-                    send_message(chat_id, text=message)
                     if len(file_path) > 0:
                         my_lg(content_type='sending_a_file', chat_id=chat_id, logger_content='file path > 0  {}'.format(file_path))
                         doc = open(file_path, 'rb')
                         my_lg(content_type='sending_a_file', chat_id=chat_id, logger_content='file opned')
                         bot.send_document(chat_id, doc)
                         my_lg(content_type='sending_a_file', chat_id=None, logger_content='file sent')
-                    my_lg(content_type='sending_a_file', chat_id=None, logger_content=message)
+                        my_lg(content_type='sending_a_file', chat_id=None, logger_content=message)
+                    else:
+                        send_message(chat_id, text=message)
+                        return jsonify(r), 200
+                    
                 else:
                     send_message(chat_id, text=get_file_message)
                     my_lg(content_type='getting_a_file', chat_id=None, logger_content=get_file_message)

@@ -391,3 +391,391 @@
 2018-11-12 15:18:44.049509, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
 2018-11-12 15:19:44.275146, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
 2018-11-12 15:19:44.275485, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:20:25.909180, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542036025, u'text': u'kk', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-gb'}, u'message_id': 338, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870117}
+2018-11-12 15:20:25.909346, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"kk" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 15:20:32.655390, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:20:32.656728, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:20:32.883114, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADHQIAAkd2UEuTYtz9n9FLGAI.json
+2018-11-12 15:20:32.883196, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:20:33.144651, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: file sent
+2018-11-12 15:20:33.145111, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 15:20:38.122984, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:20:38.123974, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:20:40.323422, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:20:40.324833, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:20:44.451267, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:20:44.451573, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:20:44.581093, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:20:44.582083, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:20:55.235509, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:20:55.236453, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:21:11.567975, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:21:11.568910, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:21:43.737444, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:21:43.738444, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:21:44.717534, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:21:44.717824, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:22:43.969445, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:22:43.970589, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:22:44.876068, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:22:44.876359, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 15:22:51.659622, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542036171, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-gb'}, u'message_id': 354, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870120}
+2018-11-12 15:22:51.659750, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 15:22:56.979023, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:22:59.080099, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:23:04.966953, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:23:13.195508, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:23:29.289888, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:23:44.155132, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:23:44.156155, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:23:45.109715, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:23:45.110079, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:23:57.241072, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:23:57.242541, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:23:57.306305, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADIAIAAkd2UEtn3vv6RWv0mgI.json
+2018-11-12 15:23:57.306362, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:23:57.409486, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: file sent
+2018-11-12 15:23:57.409559, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 15:24:01.415558, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:24:01.416581, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:24:09.434852, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:24:09.435128, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:24:11.634213, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:24:11.634501, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:24:15.787105, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:24:15.787407, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:24:24.560096, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:24:24.560391, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:24:40.712513, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:24:40.712790, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:24:44.339415, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:24:44.341358, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:24:45.303202, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:24:45.303491, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:25:01.669647, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:25:01.670591, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:25:12.876211, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:25:12.876503, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:25:44.642509, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:25:44.643452, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:25:45.492159, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:25:45.492448, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:26:01.850381, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:26:01.851379, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:26:01.851429, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:26:13.040178, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:26:13.040661, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:26:13.040725, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:26:44.840174, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:26:44.841331, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:26:44.841416, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:26:45.677303, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:26:45.677701, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:26:45.677736, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:27:02.419417, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:27:02.420331, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:27:02.420373, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:27:13.199788, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:27:13.200063, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:27:13.200094, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:27:45.028123, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:27:45.029176, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:27:45.029291, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:27:45.892368, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:27:45.892735, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:27:45.892774, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:28:02.659550, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:28:02.660461, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:28:02.660502, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:28:13.391811, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:28:13.392092, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:28:13.392123, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:28:45.289163, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:28:45.290296, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:28:45.290341, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:28:46.052072, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:28:46.052430, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:28:46.052482, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:29:03.350645, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:29:03.351589, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:29:03.351652, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:29:13.667861, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:29:13.668142, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:29:13.668174, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:29:45.491399, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:29:45.492441, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:29:45.492484, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:29:46.212832, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:29:46.213123, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:29:46.213158, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:29:56.923584, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:29:59.037149, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:30:03.174558, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:30:03.561180, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:30:03.562135, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:30:03.562178, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:30:06.909101, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:30:06.910506, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: result > 0
+2018-11-12 15:30:06.910549, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:30:07.019122, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADJAIAAkd2UEvQfjnfaRIESQI.json
+2018-11-12 15:30:07.019432, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:30:07.126027, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: file sent
+2018-11-12 15:30:07.126078, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 15:30:11.291984, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:30:13.831350, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:30:13.831623, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:30:13.831655, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:30:27.408025, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:30:45.660454, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:30:45.661449, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:30:45.661529, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:30:46.386775, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:30:46.387056, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:30:46.387087, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:30:48.674968, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'Not a json file or wrong format', 'chat_id': 573170508}
+2018-11-12 15:30:48.735365, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: Not a json file or wrong format
+2018-11-12 15:30:59.574802, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:31:03.783405, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:31:03.784351, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:31:03.784393, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:31:14.232523, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:31:14.232818, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:31:14.232850, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:31:45.941781, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:31:45.942710, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:31:45.942752, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:31:46.611514, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:31:46.611946, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:31:46.612033, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:31:59.664087, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:32:03.968164, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:32:03.969080, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:32:03.969137, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:32:14.435491, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:32:14.435770, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:32:14.435810, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:32:46.201475, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:32:46.202504, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:32:46.202565, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:32:46.788611, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:32:46.788922, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:32:46.788958, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:33:00.854459, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:33:04.122544, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:33:04.123482, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:33:04.123528, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:33:14.660744, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:33:14.661028, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: if features
+2018-11-12 15:33:14.661060, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:33:46.472943, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:33:46.474351, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:33:46.474418, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:33:47.016979, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:33:47.017350, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:33:47.017394, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:34:01.016795, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:34:04.298023, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:34:04.299238, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:34:04.299301, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:34:14.813972, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:34:14.814273, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:34:14.814323, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:34:46.721132, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:34:46.722338, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:34:46.722387, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:34:47.225310, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:34:47.225599, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:34:47.225633, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:35:01.132719, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:35:04.504948, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:35:04.505909, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:35:04.505971, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:35:14.984306, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:35:14.984715, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:35:14.984777, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:35:46.874342, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:35:46.875282, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:35:46.875326, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:35:47.404134, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:35:47.404432, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:35:47.404469, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:36:01.223459, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:36:04.694130, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:36:04.695302, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:36:04.695348, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:36:15.203585, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:36:15.203858, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:36:15.203893, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:36:47.039203, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:36:47.040383, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:36:47.040447, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:36:47.574019, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:36:47.574321, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:36:47.574355, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:37:01.320955, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:37:04.919651, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:37:04.920590, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:37:04.920635, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:37:15.432405, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:37:15.432700, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:37:15.432735, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:37:47.253081, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:37:47.254020, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:37:47.254066, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:37:47.787196, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:37:47.787490, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:37:47.787525, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:38:01.440523, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:38:05.073919, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:38:05.075066, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:38:05.075126, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:38:15.651806, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:38:15.652114, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:38:15.652150, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:38:47.458462, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:38:47.460224, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:38:47.460273, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:38:47.959358, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:38:47.959632, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:38:47.959666, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:39:01.559138, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:39:05.238855, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:39:05.239779, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:39:05.239824, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:39:15.836718, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:39:15.837164, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:39:15.837274, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:39:47.673154, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:39:47.674167, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:39:47.674213, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:39:48.152054, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:39:48.152343, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:39:48.152379, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:40:01.654463, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:40:05.400024, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:40:05.401235, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:40:05.401299, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:40:15.990908, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:40:15.991211, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:40:15.991245, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:40:47.852959, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:40:47.854419, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:40:47.854468, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:40:48.309329, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:40:48.309704, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:40:48.309750, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:41:01.834323, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:41:05.619532, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:41:05.620496, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:41:05.620560, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:41:16.166155, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:41:16.166495, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:41:16.166539, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:41:48.012941, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:41:48.013946, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:41:48.013994, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:41:48.562432, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:41:48.562726, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:41:48.562761, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:42:01.951281, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:42:05.824204, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:42:05.825506, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:42:05.825557, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:42:16.334467, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:42:16.334743, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:42:16.334778, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:42:48.180406, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:42:48.181552, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:42:48.181599, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:42:48.762819, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:42:48.763104, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:42:48.763139, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain features', 'chat_id': 573170508}
+2018-11-12 15:43:00.645339, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542037380, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-gb'}, u'message_id': 449, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870127}
+2018-11-12 15:43:00.645474, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 15:43:02.049309, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:05.310307, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:05.311539, CONTENT_TYPE: File does not contain features, chat_id: None, INFO: result > 0
+2018-11-12 15:43:05.311581, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADKAIAAkd2UEvEin9OTivmxwI.json
+2018-11-12 15:43:05.311611, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:43:05.395481, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: file sent
+2018-11-12 15:43:05.395534, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 15:43:06.003225, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:06.004143, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:43:12.843262, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:12.843596, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADKgIAAkd2UEu4GQtib2VQZQI, INFO: if features
+2018-11-12 15:43:14.939676, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:14.940099, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADKgIAAkd2UEu4GQtib2VQZQI, INFO: if features
+2018-11-12 15:43:16.593928, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:16.594260, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:43:19.054795, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:19.055141, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADKgIAAkd2UEu4GQtib2VQZQI, INFO: if features
+2018-11-12 15:43:31.407654, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:31.408018, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADKgIAAkd2UEu4GQtib2VQZQI, INFO: if features
+2018-11-12 15:43:37.717461, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'Not a json file or wrong format', 'chat_id': 573170508}
+2018-11-12 15:43:37.890491, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: Not a json file or wrong format
+2018-11-12 15:43:48.204177, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:48.204415, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADLAIAAkd2UEs0Zs2g2_zOtwI, INFO: if features
+2018-11-12 15:43:48.333241, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:48.334145, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:43:48.915634, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:48.915933, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:43:49.210089, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:49.210478, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADKgIAAkd2UEu4GQtib2VQZQI, INFO: if features
+2018-11-12 15:43:50.325235, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:50.325546, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADLAIAAkd2UEs0Zs2g2_zOtwI, INFO: if features
+2018-11-12 15:43:57.351407, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:43:57.351683, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADLAIAAkd2UEs0Zs2g2_zOtwI, INFO: if features
+2018-11-12 15:44:02.937041, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:44:05.464278, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:44:05.464595, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADLAIAAkd2UEs0Zs2g2_zOtwI, INFO: if features
+2018-11-12 15:44:07.147126, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:44:07.148039, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:44:16.683765, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:44:16.684050, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:44:21.307092, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:44:21.307444, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADKgIAAkd2UEu4GQtib2VQZQI, INFO: if features
+2018-11-12 15:44:21.559945, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:44:21.560230, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADLAIAAkd2UEs0Zs2g2_zOtwI, INFO: if features
+2018-11-12 15:44:48.451712, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:44:48.452609, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:44:49.027368, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:44:49.027650, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:44:59.801524, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:44:59.802001, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADLAIAAkd2UEs0Zs2g2_zOtwI, INFO: if features
+2018-11-12 15:45:03.104024, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:45:07.327517, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:45:07.328415, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:45:16.799205, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:45:16.799489, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:45:21.412036, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:45:21.412407, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADKgIAAkd2UEu4GQtib2VQZQI, INFO: if features
+2018-11-12 15:45:48.605886, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:45:48.606873, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:45:49.119457, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:45:49.119748, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:45:59.992522, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:45:59.992803, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADLAIAAkd2UEs0Zs2g2_zOtwI, INFO: if features
+2018-11-12 15:46:03.201304, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:46:07.417790, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:46:07.418715, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:46:16.889470, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:46:16.889754, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:46:21.603847, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:46:21.604196, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADKgIAAkd2UEu4GQtib2VQZQI, INFO: if features
+2018-11-12 15:46:48.698799, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:46:48.699794, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:46:49.214069, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:46:49.214369, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features
+2018-11-12 15:47:00.115294, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:47:00.115576, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADLAIAAkd2UEs0Zs2g2_zOtwI, INFO: if features
+2018-11-12 15:47:03.295692, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:47:08.653805, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:47:08.654830, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHwIAAkd2UEtYKofkYVh5UAI, INFO: if features
+2018-11-12 15:47:16.981873, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:47:16.982180, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADIgIAAkd2UEtPpNK4p0dQ5wI, INFO: if features
+2018-11-12 15:47:21.724143, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:47:21.724488, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADKgIAAkd2UEu4GQtib2VQZQI, INFO: if features
+2018-11-12 15:47:48.791534, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:47:48.792508, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADHgIAAkd2UEtRmzDe1UsnBQI, INFO: if features
+2018-11-12 15:47:49.317085, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:47:49.317408, CONTENT_TYPE: File does not contain features, chat_id: BQADAgADFQIAAkd2UEtD1OkjZkCxewI, INFO: if features

@@ -65,10 +65,14 @@ def get_feature_names(file_id):
         with open('{}outfile{}.json'.format(config.dir_path, file_id), 'w') as outfile:
                 json.dump(result, outfile)
         if len(result) > 0:
+            logger(content_type='File does not contain features', chat_id=None, logger_content='result > 0')
             return result, '{}outfile{}.json'.format(config.dir_path, file_id)
-        else: return 'File does not contain features' , None
     else:
-        return 'File does not contain field "features"' , None
+        logger(content_type='File does not contain features', chat_id=file_id, logger_content='if features') 
+        return 'File does not contain features' , None
+
+    # else:
+    #     return 'File does not contain field "features"' , None
 
 
 #not the best way, need to change it later
