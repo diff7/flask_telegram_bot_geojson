@@ -1,0 +1,244 @@
+2018-11-12 08:02:44.184091, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'from': {u'username': u'krooked2', u'first_name': u'Anastasia', u'last_name': u'Nikolishina', u'is_bot': False, u'language_code': u'ru-RU', u'id': 310802996}, u'text': u'/start', u'entities': [{u'length': 6, u'type': u'bot_command', u'offset': 0}], u'chat': {u'username': u'krooked2', u'first_name': u'Anastasia', u'last_name': u'Nikolishina', u'type': u'private', u'id': 310802996}, u'date': 1542009764, u'message_id': 101}, u'update_id': 254870042}
+2018-11-12 08:02:44.184194, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"/start" is not a valid command, type "info" to get more information', 'chat_id': 310802996}
+2018-11-12 08:02:49.696254, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'from': {u'username': u'krooked2', u'first_name': u'Anastasia', u'last_name': u'Nikolishina', u'is_bot': False, u'language_code': u'ru-RU', u'id': 310802996}, u'text': u'/start', u'entities': [{u'length': 6, u'type': u'bot_command', u'offset': 0}], u'chat': {u'username': u'krooked2', u'first_name': u'Anastasia', u'last_name': u'Nikolishina', u'type': u'private', u'id': 310802996}, u'date': 1542009769, u'message_id': 103}, u'update_id': 254870043}
+2018-11-12 08:02:49.696397, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"/start" is not a valid command, type "info" to get more information', 'chat_id': 310802996}
+2018-11-12 13:32:00.534107, CONTENT_TYPE: checking_webhook, chat_id: None, INFO: {"ok":true,"result":{"url":"https://104.248.35.29:443/web_hook","has_custom_certificate":true,"pending_update_count":4,"last_error_date":1542029502,"last_error_message":"Wrong response from the webhook: 500 Internal Server Error","max_connections":40}}
+2018-11-12 13:32:06.998575, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542029526, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 109, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870048}
+2018-11-12 13:32:06.998741, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 13:32:09.878385, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '->> 2018-11-12 13:32:06.998741, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {\'text\': \'"hi" is not a valid command, type "info" to get more information\', \'chat_id\': 573170508}\n', 'chat_id': 573170508}
+2018-11-12 13:32:14.160616, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542029469, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 108, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870047}
+2018-11-12 13:32:14.160735, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 13:32:22.465221, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:32:22.466511, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': u'LineString : 2\n Polygon : 3\n Point : 10', 'chat_id': 573170508}
+2018-11-12 13:32:22.565875, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: LineString : 2
+ Polygon : 3
+ Point : 10
+2018-11-12 13:32:23.240085, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:32:23.241305, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': u'LineString : 2\n Polygon : 3\n Point : 10', 'chat_id': 573170508}
+2018-11-12 13:32:23.409878, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: LineString : 2
+ Polygon : 3
+ Point : 10
+2018-11-12 13:32:32.826257, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '-> to get your json file descirption drag and drop files here or upload \n-> to see last logs type "logs" \n-> to see webhook status follow "https://104.248.35.29/check_webhook" \n-> to reset the webhook follow "https://104.248.35.29/set_webhook" \n-> github: https://github.com/diff7/flask_telegram_bot_geojson', 'chat_id': 573170508}
+2018-11-12 13:32:37.685990, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '->> 2018-11-12 13:32:32.826257, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {\'text\': \'-> to get your json file descirption drag and drop files here or upload \\n-> to see last logs type "logs" \\n-> to see webhook status follow "https://104.248.35.29/check_webhook" \\n-> to reset the webhook follow "https://104.248.35.29/set_webhook" \\n-> github: https://github.com/diff7/flask_telegram_bot_geojson\', \'chat_id\': 573170508}\n', 'chat_id': 573170508}
+2018-11-12 13:36:41.887945, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:36:41.889270, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': u'LineString : 2\n Polygon : 3\n Point : 10', 'chat_id': 573170508}
+2018-11-12 13:36:41.954959, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: LineString : 2
+ Polygon : 3
+ Point : 10
+2018-11-12 13:37:27.578311, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:37:27.578691, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 13:37:27.637595, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: File does not contain field "features"
+2018-11-12 13:40:30.284217, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:40:30.285558, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': u'LineString : 2\n Polygon : 3\n Point : 10', 'chat_id': 573170508}
+2018-11-12 13:40:30.343977, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: LineString : 2
+ Polygon : 3
+ Point : 10
+2018-11-12 13:53:17.633450, CONTENT_TYPE: checking_webhook, chat_id: None, INFO: {"ok":true,"result":{"url":"https://104.248.35.29:443/web_hook","has_custom_certificate":true,"pending_update_count":2,"last_error_date":1542030783,"last_error_message":"Wrong response from the webhook: 500 Internal Server Error","max_connections":40}}
+2018-11-12 13:53:24.128848, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542030804, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 127, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870056}
+2018-11-12 13:53:24.128972, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 13:53:43.106003, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:53:43.107217, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': None, 'chat_id': 573170508}
+2018-11-12 13:53:43.192962, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: None
+2018-11-12 13:53:56.032763, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:53:56.033090, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': None, 'chat_id': 573170508}
+2018-11-12 13:53:56.098897, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: None
+2018-11-12 13:53:59.669407, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:53:59.670478, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': None, 'chat_id': 573170508}
+2018-11-12 13:53:59.730294, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: None
+2018-11-12 13:54:06.133993, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542030361, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 126, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870055}
+2018-11-12 13:54:06.134110, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 13:54:51.894244, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '->> 2018-11-12 13:54:06.134110, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {\'text\': \'"hi" is not a valid command, type "info" to get more information\', \'chat_id\': 573170508}\n', 'chat_id': 573170508}
+2018-11-12 13:54:56.312289, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542030894, u'text': u'infp', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 137, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870060}
+2018-11-12 13:54:56.312374, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"infp" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 13:54:58.962854, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '-> to get your json file descirption drag and drop files here or upload \n-> to see last logs type "logs" \n-> to see webhook status follow "https://104.248.35.29/check_webhook" \n-> to reset the webhook follow "https://104.248.35.29/set_webhook" \n-> github: https://github.com/diff7/flask_telegram_bot_geojson', 'chat_id': 573170508}
+2018-11-12 13:55:07.056935, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:55:07.057244, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': None, 'chat_id': 573170508}
+2018-11-12 13:55:07.116522, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: None
+2018-11-12 13:55:11.928049, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:55:11.929342, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': None, 'chat_id': 573170508}
+2018-11-12 13:55:12.025353, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: None
+2018-11-12 13:58:12.775083, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542031092, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 145, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870064}
+2018-11-12 13:58:12.775204, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 13:58:20.383258, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:58:20.384454, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': u'Polygon : 1', 'chat_id': 573170508}
+2018-11-12 13:58:20.528063, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: Polygon : 1
+2018-11-12 13:58:32.098112, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 13:58:32.098423, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': None, 'chat_id': 573170508}
+2018-11-12 13:58:32.185164, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: None
+2018-11-12 14:12:53.042141, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542031973, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 152, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870068}
+2018-11-12 14:12:53.042270, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 14:13:01.049821, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:13:02.006447, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542031138, u'text': u'ji', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 151, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870067}
+2018-11-12 14:13:02.006569, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"ji" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 14:13:03.173751, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:13:07.267987, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:13:15.360088, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:13:31.479946, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:14:03.621129, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:14:25.681725, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542032065, u'text': u'jj', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 156, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870070}
+2018-11-12 14:14:25.681845, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"jj" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 14:14:30.337257, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:14:32.462206, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:14:36.606933, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:14:44.720719, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:15:00.817592, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:15:03.714332, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:15:32.960187, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:16:03.811228, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:16:33.060891, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:17:03.926290, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:17:33.515770, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:18:04.023826, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:18:33.688032, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:19:04.117034, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:19:33.804363, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:20:04.210162, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:20:22.919048, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542032422, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 159, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870072}
+2018-11-12 14:20:22.919166, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 14:20:28.353060, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:20:28.357786, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:20:28.420074, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 14:20:33.904935, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:20:33.912626, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:20:33.999567, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 14:21:04.310818, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:21:04.327044, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:21:04.416028, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 14:21:42.603869, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542032502, u'text': u'hgff', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 165, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870074}
+2018-11-12 14:21:42.603969, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hgff" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 14:21:47.114304, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '-> to get your json file descirption drag and drop files here or upload \n-> to see last logs type "logs" \n-> to see webhook status follow "https://104.248.35.29/check_webhook" \n-> to reset the webhook follow "https://104.248.35.29/set_webhook" \n-> github: https://github.com/diff7/flask_telegram_bot_geojson', 'chat_id': 573170508}
+2018-11-12 14:21:51.942265, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '->> 2018-11-12 14:21:47.114304, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {\'text\': \'-> to get your json file descirption drag and drop files here or upload \\n-> to see last logs type "logs" \\n-> to see webhook status follow "https://104.248.35.29/check_webhook" \\n-> to reset the webhook follow "https://104.248.35.29/set_webhook" \\n-> github: https://github.com/diff7/flask_telegram_bot_geojson\', \'chat_id\': 573170508}\n', 'chat_id': 573170508}
+2018-11-12 14:22:13.540765, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '->> 2018-11-12 14:21:42.603969, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {\'text\': \'"hgff" is not a valid command, type "info" to get more information\', \'chat_id\': 573170508}\n->> 2018-11-12 14:21:47.114304, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {\'text\': \'-> to get your json file descirption drag and drop files here or upload \\n-> to see last logs type "logs" \\n-> to see webhook status follow "https://104.248.35.29/check_webhook" \\n-> to reset the webhook follow "https://104.248.35.29/set_webhook" \\n-> github: https://github.com/diff7/flask_telegram_bot_geojson\', \'chat_id\': 573170508}\n->> 2018-11-12 14:21:51.942265, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {\'text\': \'->> 2018-11-12 14:21:47.114304, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {\\\'text\\\': \\\'-> to get your json file descirption drag and drop files here or upload \\\\n-> to see last logs type "logs" \\\\n-> to see webhook status follow "https://104.248.35.29/check_webhook" \\\\n-> to reset the webhook follow "https://104.248.35.29/set_webhook" \\\\n-> github: https://github.com/diff7/flask_telegram_bot_geojson\\\', \\\'chat_id\\\': 573170508}\\n\', \'chat_id\': 573170508}\n', 'chat_id': 573170508}
+2018-11-12 14:31:11.037754, CONTENT_TYPE: checking_webhook, chat_id: None, INFO: {"ok":true,"result":{"url":"https://104.248.35.29:443/web_hook","has_custom_certificate":true,"pending_update_count":0,"last_error_date":1542032404,"last_error_message":"Wrong response from the webhook: 500 INTERNAL SERVER ERROR","max_connections":40}}
+2018-11-12 14:42:49.407709, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542033769, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 173, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870078}
+2018-11-12 14:42:49.407834, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 14:43:01.144451, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:43:03.252748, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:43:07.371794, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:43:15.467155, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:43:33.290351, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:44:05.546905, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:44:10.842322, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542033850, u'text': u'hi', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 176, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870080}
+2018-11-12 14:44:10.842418, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"hi" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 14:44:15.148044, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:44:17.241054, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:44:22.390980, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:44:30.579670, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:44:46.678679, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:45:04.447207, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '->> 2018-11-12 14:44:22.390980, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully\n->> 2018-11-12 14:44:30.579670, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully\n->> 2018-11-12 14:44:46.678679, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully\n', 'chat_id': 573170508}
+2018-11-12 14:45:05.646675, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:45:05.650749, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:45:15.697890, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:45:15.701893, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:45:17.893664, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:45:17.897921, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:45:18.798590, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:45:18.802824, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:45:24.606349, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:45:24.610356, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:45:32.892346, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:45:32.897232, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:45:49.071387, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:45:49.075368, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:46:05.806180, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:46:05.810682, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:46:19.065711, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:46:19.070068, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:46:22.750158, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:46:22.754088, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:46:35.860490, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': "->> 2018-11-12 14:46:19.070068, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}\n->> 2018-11-12 14:46:22.750158, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully\n->> 2018-11-12 14:46:22.754088, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}\n", 'chat_id': 573170508}
+2018-11-12 14:46:39.719587, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '-> to get your json file descirption drag and drop files here or upload \n-> to see last logs type "logs" \n-> to see webhook status follow "https://104.248.35.29/check_webhook" \n-> to reset the webhook follow "https://104.248.35.29/set_webhook" \n-> github: https://github.com/diff7/flask_telegram_bot_geojson', 'chat_id': 573170508}
+2018-11-12 14:47:06.023943, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:47:06.027693, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:47:19.224550, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:47:19.228556, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:47:22.940869, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:47:22.944467, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:47:55.358718, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:47:55.362962, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:47:57.649679, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:47:57.653868, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:48:01.811672, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:48:01.815918, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:48:06.242585, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:48:06.246666, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:48:09.986427, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:48:09.991744, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:48:22.563232, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:48:22.567241, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:48:23.140350, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:48:23.144010, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:48:26.245278, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:48:26.249673, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:48:26.333589, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 14:48:33.047676, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542034113, u'text': u'123', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 208, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870087}
+2018-11-12 14:48:33.047807, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"123" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 14:48:35.508238, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '->> 2018-11-12 14:48:26.333589, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: {u\'LineString\': 2, u\'Polygon\': 3, u\'Point\': 10}\n->> 2018-11-12 14:48:33.047676, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u\'message\': {u\'date\': 1542034113, u\'text\': u\'123\', u\'from\': {u\'username\': u\'daLime\', u\'first_name\': u\'Egor\', u\'is_bot\': False, u\'id\': 573170508, u\'language_code\': u\'en-US\'}, u\'message_id\': 208, u\'chat\': {u\'username\': u\'daLime\', u\'first_name\': u\'Egor\', u\'type\': u\'private\', u\'id\': 573170508}}, u\'update_id\': 254870087}\n->> 2018-11-12 14:48:33.047807, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {\'text\': \'"123" is not a valid command, type "info" to get more information\', \'chat_id\': 573170508}\n', 'chat_id': 573170508}
+2018-11-12 14:48:40.267271, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '-> to get your json file descirption drag and drop files here or upload \n-> to see last logs type "logs" \n-> to see webhook status follow "https://104.248.35.29/check_webhook" \n-> to reset the webhook follow "https://104.248.35.29/set_webhook" \n-> github: https://github.com/diff7/flask_telegram_bot_geojson', 'chat_id': 573170508}
+2018-11-12 14:48:46.892765, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:48:46.897113, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:48:46.960395, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 14:49:06.448352, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:49:06.452262, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:49:06.566621, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 14:49:22.795673, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:49:22.804200, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:49:22.864937, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 14:49:23.330742, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:49:23.334826, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:49:23.396129, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 14:49:36.315532, CONTENT_TYPE: checking_webhook, chat_id: None, INFO: {"ok":true,"result":{"url":"https://104.248.35.29:443/web_hook","has_custom_certificate":true,"pending_update_count":0,"last_error_date":1542034103,"last_error_message":"Wrong response from the webhook: 500 INTERNAL SERVER ERROR","max_connections":40}}
+2018-11-12 14:49:37.929902, CONTENT_TYPE: checking_webhook, chat_id: None, INFO: {"ok":true,"result":{"url":"https://104.248.35.29:443/web_hook","has_custom_certificate":true,"pending_update_count":0,"last_error_date":1542034103,"last_error_message":"Wrong response from the webhook: 500 INTERNAL SERVER ERROR","max_connections":40}}
+2018-11-12 14:50:54.693138, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542034254, u'text': u'10', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 219, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870091}
+2018-11-12 14:50:54.693297, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"10" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 14:51:03.025178, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:51:03.025682, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 14:51:03.089065, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: File does not contain field "features"
+2018-11-12 14:51:08.720235, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:51:08.720488, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'File does not contain field "features"', 'chat_id': 573170508}
+2018-11-12 14:51:08.781919, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: File does not contain field "features"
+2018-11-12 14:51:23.376724, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': 'Not a json file or wrong format', 'chat_id': 573170508}
+2018-11-12 14:51:23.545383, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: Not a json file or wrong format
+2018-11-12 14:51:31.169905, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 14:51:31.174064, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 14:51:31.232531, CONTENT_TYPE: getting_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 15:00:11.248587, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542034811, u'text': u'ok', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 229, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870096}
+2018-11-12 15:00:11.248707, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"ok" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 15:00:25.121898, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:00:25.125642, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:00:25.235941, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADEAIAAkd2UEvISN2BmsMrrAI.json
+2018-11-12 15:00:25.235993, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:00:27.341771, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:00:27.345831, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:00:27.453175, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADEAIAAkd2UEvISN2BmsMrrAI.json
+2018-11-12 15:00:27.453242, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:00:31.550332, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:00:31.556015, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:00:31.703429, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADEAIAAkd2UEvISN2BmsMrrAI.json
+2018-11-12 15:00:31.703493, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:00:39.823928, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:00:39.827778, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:00:39.948439, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADEAIAAkd2UEvISN2BmsMrrAI.json
+2018-11-12 15:00:39.948496, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:00:56.045130, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:00:56.049146, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:00:56.110957, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADEAIAAkd2UEvISN2BmsMrrAI.json
+2018-11-12 15:00:56.111040, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:01:28.210050, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:01:28.213788, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:01:28.303093, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADEAIAAkd2UEvISN2BmsMrrAI.json
+2018-11-12 15:01:28.303154, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:02:05.192400, CONTENT_TYPE: messages_incoming, chat_id: None, INFO: {u'message': {u'date': 1542034925, u'text': u'jj', u'from': {u'username': u'daLime', u'first_name': u'Egor', u'is_bot': False, u'id': 573170508, u'language_code': u'en-US'}, u'message_id': 238, u'chat': {u'username': u'daLime', u'first_name': u'Egor', u'type': u'private', u'id': 573170508}}, u'update_id': 254870098}
+2018-11-12 15:02:05.192533, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': '"jj" is not a valid command, type "info" to get more information', 'chat_id': 573170508}
+2018-11-12 15:02:11.222457, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:02:11.226510, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:02:11.292852, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADEQIAAkd2UEsRVrFCUpNFagI.json
+2018-11-12 15:02:11.292918, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:02:11.415138, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: file sent
+2018-11-12 15:02:11.415193, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
+2018-11-12 15:02:28.431155, CONTENT_TYPE: getting json out of the file, chat_id: None, INFO: converted to json succesfully
+2018-11-12 15:02:28.435292, CONTENT_TYPE: messages_outcoming, chat_id: None, INFO: {'text': {u'LineString': 2, u'Polygon': 3, u'Point': 10}, 'chat_id': 573170508}
+2018-11-12 15:02:28.497787, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file path > 0  /home/donkey/flask_bot/outfileBQADAgADEAIAAkd2UEvISN2BmsMrrAI.json
+2018-11-12 15:02:28.497837, CONTENT_TYPE: sending_a_file, chat_id: 573170508, INFO: file opned
+2018-11-12 15:02:28.611856, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: file sent
+2018-11-12 15:02:28.611907, CONTENT_TYPE: sending_a_file, chat_id: None, INFO: {u'LineString': 2, u'Polygon': 3, u'Point': 10}
