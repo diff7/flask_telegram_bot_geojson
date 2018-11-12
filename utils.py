@@ -62,8 +62,8 @@ def get_feature_names(file_id):
         for item in json_file['features']:
             c[item['geometry']['type']]+=1
             result =  dict(c)
-            with open('{}outfile{}.json'.format(config.dir_path, file_id), 'w') as outfile:
-                    json.dump(result, outfile)
+        with open('{}outfile{}.json'.format(config.dir_path, file_id), 'w') as outfile:
+                json.dump(result, outfile)
         if len(result) > 0:
             return result, '{}outfile{}.json'.format(config.dir_path, file_id)
         else: return 'File does not contain features' , None
