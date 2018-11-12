@@ -62,8 +62,8 @@ def webhook():
 
                 check, get_file_message = get_file_contetn(file_id)
                 if check==True:
-                    message, file_path=get_feature_names(file_id)
-                    if len(file_path) > 0:
+                    message, file_path, check =get_feature_names(file_id)
+                    if check==True > 0:
                         my_lg(content_type='sending_a_file', chat_id=chat_id, logger_content='file path > 0  {}'.format(file_path))
                         doc = open(file_path, 'rb')
                         my_lg(content_type='sending_a_file', chat_id=chat_id, logger_content='file opned')
@@ -73,7 +73,7 @@ def webhook():
                     else:
                         send_message(chat_id, text=message)
                         return jsonify(r), 200
-                    
+
                 else:
                     send_message(chat_id, text=get_file_message)
                     my_lg(content_type='getting_a_file', chat_id=None, logger_content=get_file_message)
@@ -105,5 +105,5 @@ def index():
     return '<h1>Hello</h1>'
 
 
-if __name__ == "__main__":
-    app.run(host='0.0.0.0')
+# if __name__ == "__main__":
+#     app.run(host='0.0.0.0')

@@ -56,7 +56,7 @@ def get_feature_names(file_id):
         try:
             json_file = json.load(json_data)
         except:
-            return 'Could not read json file' , None
+            return 'Could not read json file' , None, False
     c = collections.Counter()
     if 'features' in json_file:
         for item in json_file['features']:
@@ -66,10 +66,10 @@ def get_feature_names(file_id):
                 json.dump(result, outfile)
         if len(result) > 0:
             logger(content_type='File does not contain features', chat_id=None, logger_content='result > 0')
-            return result, '{}outfile{}.json'.format(config.dir_path, file_id)
+            return result, '{}outfile{}.json'.format(config.dir_path, file_id), True
     else:
-        logger(content_type='File does not contain features', chat_id=file_id, logger_content='if features') 
-        return 'File does not contain features' , None
+        logger(content_type='File does not contain features', chat_id=file_id, logger_content='if features')
+        return 'File does not contain features' , None, False
 
     # else:
     #     return 'File does not contain field "features"' , None
